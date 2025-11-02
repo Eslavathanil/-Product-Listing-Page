@@ -29,7 +29,7 @@ By completion, the evaluator should find a **responsive, clean-coded, and optimi
 - **Version Control**: Git + GitHub account  
 - **Node.js and npm**: Version 14+  
 - **Browser**: Google Chrome or Firefox  
-- **Deployment**: [Netlify](https://www.netlify.com/) (free tier)  
+- **Deployment**: [Netlify](https://capable-trifle-44625c.netlify.app) (free tier)  
 - **Optional Mock API**: [Fake Store API](https://fakestoreapi.com/)  
 
 ### Libraries / Packages
